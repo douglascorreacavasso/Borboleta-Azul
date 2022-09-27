@@ -1,12 +1,12 @@
-# NLW Jogos
+# Site Borboleta Azul
 ![preview](./.github/preview.png)
 
-> Trilha Explorer eSports
+> Borboleta Azul
 
-Projeto construido do evento Next Level Week
-da Rocketseat. Para mostrar 3 jogos, 3 canais e redes sociais.
+Projeto construido com intuito de trazer informações sobre a 
+especie Maculinea alcon, uma linda borboleta azul rara.
 
-[ Clique aqui para acessar](https://douglascorreacavasso.github.io/NLW/)
+[ Clique aqui para acessar](https://douglascorreacavasso.github.io/Borboleta-Azul/)
 
 
 ## Tecnologias
